@@ -1,0 +1,3 @@
+conda create -f environment.yml
+# or pip install -r requirements.txt
+conda activate gas_demand_forecasting
